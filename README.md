@@ -1,6 +1,6 @@
 # Desafio Escola DNC - HBO Max
 
-Desafio de criação de página de login da plataforma HBO Max feito pela DNC treinamentos.
+Desafio de criação de página de login da plataforma HBO Max feito pela Escola DNC.
 
 #### Tecnologias utilizadas:
 HTML e CSS
